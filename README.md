@@ -3,13 +3,14 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `45` problems
-- **Last Synced:** `8/5/2026, 9:10:04 PM`
+- **Total Solved & Pushed:** `46` problems
+- **Last Synced:** `8/5/2026, 9:23:07 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Check](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Check.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Nested_Ranges_Count](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Count.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Dynamic Programming | [Dice Combinations](https://cses.fi/problemset/task/1633) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Introductory Problems | [Apple Division](https://cses.fi/problemset/task/1623) | [Code](./cses/Apple_Division.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Introductory Problems | [Bit Strings](https://cses.fi/problemset/task/1617) | [Code](./cses/Bit_Strings.cpp) | `C++ (C++20)` | ✅ Accepted |
