@@ -85,7 +85,11 @@ void solve_ronit()
         
     }
     give(ans, n);
-    sort(all(a));
+    sort(all(a), [&](auto& x, auto& y){
+        if (x.first.first == y.first.first)
+            return x.first.second > y.first.second;
+        return x.first.first < y.first.first;
+    });
     int longestfinish = -1;
     for (int i = 0; i < n ; i++)
     {
