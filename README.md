@@ -3,11 +3,12 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `43` problems
-- **Last Synced:** `8/5/2026, 7:12:10 PM`
+- **Total Solved & Pushed:** `44` problems
+- **Last Synced:** `8/5/2026, 8:26:07 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
+| General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Dynamic Programming | [Dice Combinations](https://cses.fi/problemset/task/1633) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Introductory Problems | [Apple Division](https://cses.fi/problemset/task/1623) | [Code](./cses/Apple_Division.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Introductory Problems | [Bit Strings](https://cses.fi/problemset/task/1617) | [Code](./cses/Bit_Strings.cpp) | `C++ (C++20)` | ✅ Accepted |
