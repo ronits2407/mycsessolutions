@@ -3,8 +3,8 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `49` problems
-- **Last Synced:** `8/7/2026, 9:47:44 PM`
+- **Total Solved & Pushed:** `50` problems
+- **Last Synced:** `8/7/2026, 10:04:22 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
@@ -12,6 +12,7 @@
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Check](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Check.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Count](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Count.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Reading_Books](https://cses.fi/problemset/) | [Code](./cses/Reading_Books.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Room_Allocation](https://cses.fi/problemset/) | [Code](./cses/Room_Allocation.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Tasks_and_Deadlines](https://cses.fi/problemset/) | [Code](./cses/Tasks_and_Deadlines.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Dynamic Programming | [Dice Combinations](https://cses.fi/problemset/task/1633) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
