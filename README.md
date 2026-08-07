@@ -3,11 +3,12 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `47` problems
-- **Last Synced:** `8/5/2026, 10:27:31 PM`
+- **Total Solved & Pushed:** `48` problems
+- **Last Synced:** `8/7/2026, 9:19:23 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
+| General | [Factory_Machines](https://cses.fi/problemset/) | [Code](./cses/Factory_Machines.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Check](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Check.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Count](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Count.cpp) | `C++ (C++20)` | ✅ Accepted |
