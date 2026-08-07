@@ -67,13 +67,13 @@ void solve_ronit()
     }
     else
     {
-        cout << 2 * sum << '\n';
+        cout << sum << '\n';
     }
     
     
     
     
-}
+}   
  
 int32_t main()
 {
