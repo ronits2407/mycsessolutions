@@ -4,11 +4,12 @@
 
 ### 📊 Summary
 - **Total Solved & Pushed:** `60` problems
-- **Last Synced:** `8/9/2026, 12:11:04 AM`
+- **Last Synced:** `8/9/2026, 12:12:14 AM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
 | General | [Array_Division](https://cses.fi/problemset/) | [Code](./cses/Array_Division.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Dice_Combinations](https://cses.fi/problemset/) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Distinct_Values_Subarrays_II](https://cses.fi/problemset/) | [Code](./cses/Distinct_Values_Subarrays_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Factory_Machines](https://cses.fi/problemset/) | [Code](./cses/Factory_Machines.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
@@ -26,7 +27,6 @@
 | General | [Sum_of_Four_Values](https://cses.fi/problemset/) | [Code](./cses/Sum_of_Four_Values.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Sum_of_Three_Values](https://cses.fi/problemset/) | [Code](./cses/Sum_of_Three_Values.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Tasks_and_Deadlines](https://cses.fi/problemset/) | [Code](./cses/Tasks_and_Deadlines.cpp) | `C++ (C++20)` | ✅ Accepted |
-| Dynamic Programming | [Dice Combinations](https://cses.fi/problemset/task/1633) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Introductory Problems | [Apple Division](https://cses.fi/problemset/task/1623) | [Code](./cses/Apple_Division.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Introductory Problems | [Bit Strings](https://cses.fi/problemset/task/1617) | [Code](./cses/Bit_Strings.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Introductory Problems | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [Code](./cses/Chessboard_and_Queens.cpp) | `C++ (C++20)` | ✅ Accepted |
