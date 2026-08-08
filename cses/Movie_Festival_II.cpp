@@ -51,37 +51,35 @@ void solve_ronit()
 {
     int n, k;
     cin >> n >> k;
-    set<pii> st;
+    vpii a(n);
     for (int i = 0; i < n; i++)
     {
-        int a, b;
-        cin >> a >> b;
-        st.insert({b, a});
+        cin >> a[i].second;
+        cin >> a[i].first;
     }
  
     int count = 0;
-    while (!st.empty() && k > 0)
+    // count++;
+    multiset<int> ft;
+    for (int i = 0; i < k; i++)
     {
-        set<pii> todelete;
-        int largestfinish = -1;
-        for (auto &&ele : st)
-        {
-            if (ele.second >= largestfinish)
-            {
-                todelete.insert(ele);
-                largestfinish = max(largestfinish, ele.first);
-            }
-            
-        }
-        count += todelete.size();
-        debug(k, todelete.size());
-        for (auto &&ele : todelete)
-        {
-            st.erase(ele);
-        }
-        
-        k--;
+        ft.insert(-1);
     }
+    
+    for (int i = 0; i < n; i++)
+    {
+        auto it = ft.upper_bound(a[i].second);
+        if (it == ft.begin())
+        {
+            continue;
+        }
+        it--;
+        int val = *it;
+        ft.erase(it);
+        ft.insert(a[i].first);
+        count++;
+    }
+    
     cout << count;
  
     
