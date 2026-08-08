@@ -101,7 +101,7 @@ void solve_ronit()
         
         
     }
-    while ((n-1 - l + 1) >= a)
+    while ((n-1 - l + 1) > a)
     {
         curr -= arr[l];
         l++;
