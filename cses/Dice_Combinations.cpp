@@ -9,12 +9,12 @@ using namespace std;
 #define ask(v, n) \
     for (int i = 0; i < (n); ++i) \
         cin >> v[i];
-
+ 
 #define give(v, n) \
     for (int i = 0; i < (n); ++i) \
         cout << v[i] << ' '; \
     cout << '\n';
-
+ 
 const int MOD = 1e9 + 7;
 const int INF = 1e18;
 void _print() { cerr << "]\n"; }
@@ -31,18 +31,18 @@ void _print(T t, Args... args)
 #else
 #define debug(x...)
 #endif
-
-
-
+ 
+ 
+ 
 int32_t main()
 {
     cout << fixed << setprecision(20);
     
     int n;
     cin >> n;
-
+ 
     vi dp(n+1, 0);
-
+ 
     dp[1] = 1;
     for (int i = 2; i <= n; i++)
     {
@@ -63,9 +63,9 @@ int32_t main()
         // debug(i, dp[i]);
     }
     
-
+ 
     cout << dp[n] << endl;
     
-
+ 
     return 0;
 }
