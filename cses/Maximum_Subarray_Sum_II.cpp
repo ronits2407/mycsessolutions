@@ -44,70 +44,30 @@ void _print(T t, Args... args)
     cerr << "[" << #x << "] = ["; \
     _print(x);
 #else
-#define debug(x...) 
+#define debug(x...)
 #endif
  
 void solve_ronit()
 {
-    int n, a, b;
-    cin >> n >> a >> b;
- 
-    vi arr(n);
-    ask(arr, n);
- 
-    int curr = 0;
-    for(int i = 0; i < a; i++)curr+=arr[i];
-    int ans = curr;
- 
-    int l = 0;
-    for (int r = a; r < n; r++)
+    int n, l, r;
+    cin >> n >> l >> r;
+    vi a(n+1);
+    ask(a, n);
+    vi pref(n+1, 0);
+    for(int i= 0; i < n ; i ++)pref[i+1] = pref[i] + a[i];
+    multiset<int> prefixvalues;
+    // prefixvalues.insert(pref[0]);
+    int ans = LONG_LONG_MIN;
+    for (int i = l; i <= n; i++)
     {
-        curr += arr[r];
-        if (curr <= 0 )
+        prefixvalues.insert(pref[i - l]);
+        if (i - r > 0)
         {
-            while (curr <= 0)
-            {
-                if (r -l + 1 == a)
-                {
-                    ans = max(curr, ans);
-                    break;
-                }
-                else
-                {
-                    curr -= arr[l];
-                    l++;
-                    ans = max(curr, ans);
-                }
-                
-                
-            }
- 
-            
+            prefixvalues.erase(prefixvalues.find(pref[i-r-1]));
         }
-        else
-        {
-            if (r - l + 1 > b)
-            {
-                curr -= arr[l];
-                curr -= arr[r];
-                l++;
-                r--;
-                continue;
-            }
-            
-            ans = max(ans, curr);
- 
-        }
-        
-        
+        int it = *prefixvalues.begin();
+        ans = max(ans, pref[i] - it);
     }
-    while ((n-1 - l + 1) > a)
-    {
-        curr -= arr[l];
-        l++;
-        ans = max(ans, curr);
-    }
-    
     cout << ans;
     
 }
@@ -119,4 +79,4 @@ int32_t main()
     cout << fixed << setprecision(20);
     solve_ronit();
     return 0;
-}
+}   
