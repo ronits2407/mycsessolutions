@@ -8,12 +8,12 @@ using namespace std;
 #define ask(v, n) \
     for (int i = 0; i < (n); ++i) \
         cin >> v[i];
-
+ 
 #define give(v, n) \
     for (int i = 0; i < (n); ++i) \
         cout << v[i] << ' '; \
     cout << '\n';
-
+ 
 const int MOD = 1e9 + 7;
 const int INF = 1e18;
 void _print() { cerr << "]\n"; }
@@ -30,15 +30,15 @@ void _print(T t, Args... args)
 #else
 #define debug(x...)
 #endif
-
+ 
 void solve_ronit()
 {
     int n;
     cin >> n;
-
+ 
     vi a(n);
     ask(a, n);
-
+ 
     int currsum = 0;
     int maxsum = LLONG_MIN;
     for (int i = 0; i < n; i++)
@@ -58,7 +58,7 @@ void solve_ronit()
     }
     cout << maxsum << endl;
 }
-
+ 
 int32_t main()
 {
     cout << fixed << setprecision(20);
