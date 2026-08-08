@@ -3,8 +3,8 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `60` problems
-- **Last Synced:** `8/9/2026, 12:12:14 AM`
+- **Total Solved & Pushed:** `61` problems
+- **Last Synced:** `8/9/2026, 12:46:03 AM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
@@ -15,6 +15,7 @@
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Maximum_Subarray_Sum](https://cses.fi/problemset/) | [Code](./cses/Maximum_Subarray_Sum.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Maximum_Subarray_Sum_II](https://cses.fi/problemset/) | [Code](./cses/Maximum_Subarray_Sum_II.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Minimizing_Coins](https://cses.fi/problemset/) | [Code](./cses/Minimizing_Coins.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Movie_Festival_II](https://cses.fi/problemset/) | [Code](./cses/Movie_Festival_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nearest_Smaller_Values](https://cses.fi/problemset/) | [Code](./cses/Nearest_Smaller_Values.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Check](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Check.cpp) | `C++ (C++20)` | ✅ Accepted |
