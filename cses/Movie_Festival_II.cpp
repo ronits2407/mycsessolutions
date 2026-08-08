@@ -69,8 +69,8 @@ void solve_ronit()
             if (ele.second >= largestfinish)
             {
                 todelete.insert(ele);
+                largestfinish = max(largestfinish, ele.first);
             }
-            largestfinish = max(largestfinish, ele.first);
             
         }
         count += todelete.size();
