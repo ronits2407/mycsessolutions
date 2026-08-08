@@ -3,8 +3,8 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `54` problems
-- **Last Synced:** `8/8/2026, 4:23:42 PM`
+- **Total Solved & Pushed:** `55` problems
+- **Last Synced:** `8/8/2026, 4:42:15 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
@@ -16,6 +16,7 @@
 | General | [Reading_Books](https://cses.fi/problemset/) | [Code](./cses/Reading_Books.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Room_Allocation](https://cses.fi/problemset/) | [Code](./cses/Room_Allocation.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Subarray_Sums_I](https://cses.fi/problemset/) | [Code](./cses/Subarray_Sums_I.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Subarray_Sums_II](https://cses.fi/problemset/) | [Code](./cses/Subarray_Sums_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Sum_of_Four_Values](https://cses.fi/problemset/) | [Code](./cses/Sum_of_Four_Values.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Sum_of_Three_Values](https://cses.fi/problemset/) | [Code](./cses/Sum_of_Three_Values.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Tasks_and_Deadlines](https://cses.fi/problemset/) | [Code](./cses/Tasks_and_Deadlines.cpp) | `C++ (C++20)` | ✅ Accepted |
