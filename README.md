@@ -3,11 +3,12 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `57` problems
-- **Last Synced:** `8/8/2026, 9:22:46 PM`
+- **Total Solved & Pushed:** `58` problems
+- **Last Synced:** `8/8/2026, 9:40:56 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
+| General | [Array_Division](https://cses.fi/problemset/) | [Code](./cses/Array_Division.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Distinct_Values_Subarrays_II](https://cses.fi/problemset/) | [Code](./cses/Distinct_Values_Subarrays_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Factory_Machines](https://cses.fi/problemset/) | [Code](./cses/Factory_Machines.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
