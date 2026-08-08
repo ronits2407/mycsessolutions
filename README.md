@@ -4,7 +4,7 @@
 
 ### 📊 Summary
 - **Total Solved & Pushed:** `59` problems
-- **Last Synced:** `8/8/2026, 10:28:42 PM`
+- **Last Synced:** `8/8/2026, 10:51:07 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
@@ -12,6 +12,7 @@
 | General | [Distinct_Values_Subarrays_II](https://cses.fi/problemset/) | [Code](./cses/Distinct_Values_Subarrays_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Factory_Machines](https://cses.fi/problemset/) | [Code](./cses/Factory_Machines.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Maximum_Subarray_Sum](https://cses.fi/problemset/) | [Code](./cses/Maximum_Subarray_Sum.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Movie_Festival_II](https://cses.fi/problemset/) | [Code](./cses/Movie_Festival_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nearest_Smaller_Values](https://cses.fi/problemset/) | [Code](./cses/Nearest_Smaller_Values.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Check](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Check.cpp) | `C++ (C++20)` | ✅ Accepted |
@@ -58,7 +59,6 @@
 | Sorting and Searching | [Distinct Values Subsequences](https://cses.fi/problemset/task/3421) | [Code](./cses/Distinct_Values_Subsequences.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Sorting and Searching | [Ferris Wheel](https://cses.fi/problemset/task/1090) | [Code](./cses/Ferris_Wheel.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Sorting and Searching | [Josephus Problem I](https://cses.fi/problemset/task/2162) | [Code](./cses/Josephus_Problem_I.cpp) | `C++ (C++20)` | ✅ Accepted |
-| Sorting and Searching | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | [Code](./cses/Maximum_Subarray_Sum.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Sorting and Searching | [Missing Coin Sum](https://cses.fi/problemset/task/2183) | [Code](./cses/Missing_Coin_Sum.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Sorting and Searching | [Movie Festival](https://cses.fi/problemset/task/1629) | [Code](./cses/Movie_Festival.cpp) | `C++ (C++20)` | ✅ Accepted |
 | Sorting and Searching | [Playlist](https://cses.fi/problemset/task/1141) | [Code](./cses/Playlist.cpp) | `C++ (C++20)` | ✅ Accepted |
