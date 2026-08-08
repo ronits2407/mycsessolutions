@@ -61,19 +61,20 @@ void solve_ronit()
     }
  
     map<int, int> freq;
+    // freq[0]++;
     int ans = 0;
-    freq[0]++;
-    for (int i = 1; i <= n; i++)
+    for (int i = 0; i <= n; i++)
     {
-        if (freq.find(pref[i] % n) != freq.end())
+        if (freq.find((pref[i] + (int)pow(10, 9) * n) % n) != freq.end())
         {
-            ans+= freq[pref[i] % n];
+            ans+= freq[(pref[i] + (int)pow(10, 9) * n) % n];
         }
-        freq[pref[i] % n]++;
+        freq[(pref[i] + (int)pow(10, 9) * n) % n]++;
  
         
     }
-    cout << ans;
+    cout << ans; 
+    // cout << (-5) % 3;/
     
     
 }
