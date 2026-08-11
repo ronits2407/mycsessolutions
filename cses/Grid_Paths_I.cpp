@@ -87,7 +87,7 @@ void solve_ronit()
         {
             if (grid[i][j] != '*' && !(i == 0 && j == 0))
             {
-                dp[i][j] = ((i > 0) ? dp[i-1][j]:0) + ((j > 0) ? dp[i][j-1]:0);
+                dp[i][j] = (((i > 0) ? dp[i-1][j]:0) + ((j > 0) ? dp[i][j-1]:0)) % MOD;
             }
             
         }
