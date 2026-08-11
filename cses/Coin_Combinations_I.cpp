@@ -67,7 +67,7 @@ void solve_ronit()
         {
             if (i - ele >= 0)
             {
-                dp[i] += dp[i-ele];
+                dp[i] = (dp[i-ele] + dp[i]) % MOD;
             }
         }
     }
