@@ -3,13 +3,14 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `62` problems
-- **Last Synced:** `8/11/2026, 5:30:25 PM`
+- **Total Solved & Pushed:** `63` problems
+- **Last Synced:** `8/11/2026, 5:40:34 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
 | General | [Array_Division](https://cses.fi/problemset/) | [Code](./cses/Array_Division.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Coin_Combinations_I](https://cses.fi/problemset/) | [Code](./cses/Coin_Combinations_I.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Coin_Combinations_II](https://cses.fi/problemset/) | [Code](./cses/Coin_Combinations_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Dice_Combinations](https://cses.fi/problemset/) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Distinct_Values_Subarrays_II](https://cses.fi/problemset/) | [Code](./cses/Distinct_Values_Subarrays_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Factory_Machines](https://cses.fi/problemset/) | [Code](./cses/Factory_Machines.cpp) | `C++ (C++20)` | ✅ Accepted |
