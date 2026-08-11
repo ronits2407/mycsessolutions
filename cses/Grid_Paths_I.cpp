@@ -80,7 +80,7 @@ void solve_ronit()
         cin >> grid[i];
     }
     vector<vi> dp(n, vi(n, 0));
-    dp[0][0] = 1;
+    dp[0][0] = (grid[0][0] == '*') ? 0:1;
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n; j++)
