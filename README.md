@@ -3,12 +3,13 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `65` problems
-- **Last Synced:** `8/11/2026, 5:58:32 PM`
+- **Total Solved & Pushed:** `66` problems
+- **Last Synced:** `8/12/2026, 11:13:49 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
 | General | [Array_Division](https://cses.fi/problemset/) | [Code](./cses/Array_Division.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Book_Shop](https://cses.fi/problemset/) | [Code](./cses/Book_Shop.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Coin_Combinations_I](https://cses.fi/problemset/) | [Code](./cses/Coin_Combinations_I.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Coin_Combinations_II](https://cses.fi/problemset/) | [Code](./cses/Coin_Combinations_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Dice_Combinations](https://cses.fi/problemset/) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
