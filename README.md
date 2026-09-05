@@ -3,8 +3,8 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `70` problems
-- **Last Synced:** `9/5/2026, 2:21:45 PM`
+- **Total Solved & Pushed:** `71` problems
+- **Last Synced:** `9/5/2026, 2:33:16 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
@@ -29,6 +29,7 @@
 | General | [Nested_Ranges_Check](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Check.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Nested_Ranges_Count](https://cses.fi/problemset/) | [Code](./cses/Nested_Ranges_Count.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Reading_Books](https://cses.fi/problemset/) | [Code](./cses/Reading_Books.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Rectangle_Cutting](https://cses.fi/problemset/) | [Code](./cses/Rectangle_Cutting.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Removing_Digits](https://cses.fi/problemset/) | [Code](./cses/Removing_Digits.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Room_Allocation](https://cses.fi/problemset/) | [Code](./cses/Room_Allocation.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Subarray_Divisibility](https://cses.fi/problemset/) | [Code](./cses/Subarray_Divisibility.cpp) | `C++ (C++20)` | ✅ Accepted |
