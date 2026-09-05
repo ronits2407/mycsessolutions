@@ -81,7 +81,7 @@ void solve_ronit(int tc)
         dp[i].first = ((dp[i-1].first * 4)%MOD + dp[i-1].second)%MOD;
         dp[i].second = (dp[i-1].first + (dp[i-1].second * 2)%MOD)%MOD;
     }
-    cout << dp[n].first + dp[n].second << "\n";
+    cout << (dp[n].first + dp[n].second)%MOD << "\n";
     
 }
  
