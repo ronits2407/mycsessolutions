@@ -3,8 +3,8 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `68` problems
-- **Last Synced:** `9/5/2026, 1:31:53 PM`
+- **Total Solved & Pushed:** `69` problems
+- **Last Synced:** `9/5/2026, 1:41:49 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
@@ -16,6 +16,7 @@
 | General | [Counting_Towers](https://cses.fi/problemset/) | [Code](./cses/Counting_Towers.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Dice_Combinations](https://cses.fi/problemset/) | [Code](./cses/Dice_Combinations.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Distinct_Values_Subarrays_II](https://cses.fi/problemset/) | [Code](./cses/Distinct_Values_Subarrays_II.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Edit_Distance](https://cses.fi/problemset/) | [Code](./cses/Edit_Distance.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Factory_Machines](https://cses.fi/problemset/) | [Code](./cses/Factory_Machines.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Grid_Paths_I](https://cses.fi/problemset/) | [Code](./cses/Grid_Paths_I.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
