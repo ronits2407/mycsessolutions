@@ -71,18 +71,23 @@ int nCr(int n, int r) {
     return (num * power(den, MOD - 2)) % MOD;
 }
  
-void solve_ronit(int tc)
+void solve_ronit()
 {
-    int n;cin>>n;
-    vpii dp(n+1, {0, 0});
+    vpii dp(1e6+1, {0, 0});
     dp[1] = {1, 1};
-    for (int i = 2; i <= n; i++)
+    for (int i = 2; i < dp.size(); i++)
     {
         dp[i].first = ((dp[i-1].first * 4)%MOD + dp[i-1].second)%MOD;
         dp[i].second = (dp[i-1].first + (dp[i-1].second * 2)%MOD)%MOD;
     }
-    cout << (dp[n].first + dp[n].second)%MOD << "\n";
+    int t;cin >> t;
+    while (t--)
+    {
+        int n;cin>>n;
+        cout << (dp[n].first + dp[n].second)%MOD << "\n";
+    }
     
+ 
 }
  
 int32_t main()
@@ -90,9 +95,6 @@ int32_t main()
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout << fixed << setprecision(20);
-    int t;
-    cin >> t;
-    for (int i = 1; i <= t; i++)
-        solve_ronit(i);
+    solve_ronit();
     return 0;
 }
