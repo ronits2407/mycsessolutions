@@ -3,8 +3,8 @@
 > Auto-updated repository of my accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/) pushed via **CSES Pusher**.
 
 ### 📊 Summary
-- **Total Solved & Pushed:** `69` problems
-- **Last Synced:** `9/5/2026, 1:50:59 PM`
+- **Total Solved & Pushed:** `70` problems
+- **Last Synced:** `9/5/2026, 2:21:41 PM`
 
 | Category | Problem Name | Solution | Language | Status |
 | :--- | :--- | :---: | :---: | :---: |
@@ -20,6 +20,7 @@
 | General | [Factory_Machines](https://cses.fi/problemset/) | [Code](./cses/Factory_Machines.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Grid_Paths_I](https://cses.fi/problemset/) | [Code](./cses/Grid_Paths_I.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Josephus_Problem_II](https://cses.fi/problemset/) | [Code](./cses/Josephus_Problem_II.cpp) | `C++ (C++20)` | ✅ Accepted |
+| General | [Longest_Common_Subsequence](https://cses.fi/problemset/) | [Code](./cses/Longest_Common_Subsequence.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Maximum_Subarray_Sum](https://cses.fi/problemset/) | [Code](./cses/Maximum_Subarray_Sum.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Maximum_Subarray_Sum_II](https://cses.fi/problemset/) | [Code](./cses/Maximum_Subarray_Sum_II.cpp) | `C++ (C++20)` | ✅ Accepted |
 | General | [Minimizing_Coins](https://cses.fi/problemset/) | [Code](./cses/Minimizing_Coins.cpp) | `C++ (C++20)` | ✅ Accepted |
